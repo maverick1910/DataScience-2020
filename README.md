@@ -24,4 +24,9 @@
       
   
   </p>
+  <p>
+  <h3 style="color=blue">:star2:Capstone Projects</h3>
+  <hr>
+      <li>Coming Soon</li>
+  </p>
 </p>
