@@ -8,11 +8,11 @@
 <h1> Welcome!!</h1>
 <p>
   <h2>This is an all in one platform for beginners who are new to the :globe_with_meridans: of Data Science</h2>
-  ```diff
-+ This repo is open for contributions and anyone willing to contribute to it can read the Contribution.txt file
-+ As far as now , the repo will contain the following folders and files
+  
+   This repo is open for contributions and anyone willing to contribute to it can read the Contribution.txt file
+   As far as now , the repo will contain the following folders and files
 
-```
+
   <p>
   <h3 style="color=blue">:star2:Data Analysis </h3>
   <hr>
