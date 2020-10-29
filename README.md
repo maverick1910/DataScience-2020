@@ -7,7 +7,7 @@
   <h2>This repo is open for contributions and anyone willing to contribute to it can read the Contribution.txt file</h2>
   <h2>As far as now , the repo will contain the following folders and files</h2>
   <p>
-  <h3 style="color=blue">Data Analysis </h3>
+  <h3 style="color=blue">:star2:Data Analysis </h3>
   <hr>
       <li>Numpy</li>
       <li>Pandas</li>
