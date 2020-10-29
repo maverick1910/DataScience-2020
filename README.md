@@ -7,10 +7,12 @@
   <h2>This repo is open for contributions and anyone willing to contribute to it can read the Contribution.txt file</h2>
   <h2>As far as now , the repo will contain the following folders and files</h2>
   <p>
-  <h3>Data Analysis </h3>
-  <li>:star2: <h5>Numpy</h5>       :star2: <h5>Pandas</h5></li>
-  
-  :star2: <h5>Matplotlib</h5>  :star2: <h5>Seaborn</h5>
+  <h3 style="color=blue">Data Analysis </h3>
+  <hr>
+      <li>Numpy</li>
+      <li>Pandas</li>
+      <li>Matplotlib</li>
+      <li>Seaborn</li>
   
   </p>
 </p>
