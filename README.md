@@ -7,10 +7,10 @@
   <h2>This repo is open for contributions and anyone willing to contribute to it can read the Contribution.txt file</h2>
   <h2>As far as now , the repo will contain the following folders and files</h2>
   <p>
-  :star2: <h3>Numpy</h3>
-  :star2: <h3>Pandas</h3>
-  :star2: <h3>Matplotlib</h3>
-  :star2: <h3>Pandas</h3>
+  :star2: <h3>Numpy</h3>       :star2: <h3>Pandas</h3>
+  
+  :star2: <h3>Matplotlib</h3>  :star2: <h3>Pandas</h3>
+  
   :star2: <h3>Pandas</h3>
   </p>
 </p>
