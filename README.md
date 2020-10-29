@@ -15,4 +15,13 @@
       <li>Seaborn</li>
   
   </p>
+  <p>
+  <h3 style="color=blue">:star2:Data Visualisation </h3>
+  <hr>
+      <li>Pandas Built-In</li>
+      <li>Plotly</li>
+      <li>Geographical Plotting</li>
+      
+  
+  </p>
 </p>
